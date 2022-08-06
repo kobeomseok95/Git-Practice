@@ -2,3 +2,4 @@
 
 Rebase 알아보기
 - [x] commit message 컨벤션 파일 추가
+- [ ] feature/12가 작업
