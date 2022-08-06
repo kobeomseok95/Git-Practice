@@ -1,3 +1,4 @@
 첫번째 작업한 파일이 수정
 
 Rebase 알아보기
+- [x] commit message 컨벤션 파일 추가
