@@ -4,3 +4,4 @@ Rebase 알아보기
 - [x] commit message 컨벤션 파일 추가
 - [ ] feature/11 작업
 - [ ] feature/12 작업
+- [ ] main 에서 작업
