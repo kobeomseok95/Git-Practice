@@ -1,6 +1,7 @@
 `feature/2` 의 1번째 작업
 `feature/2` 의 2번째 작업
 `feature/2` 의 3번째 작업
+`feature/2` 의 4번째 작업
 
 `feature/3` 의 1번째 작업
 `feature/3` 의 2번째 작업
