@@ -1,5 +1,6 @@
 `feature/1` - 1번째 기능 개발
 `feature/1` - 2번째 기능 개발
+`feature/1` - 3번째 기능 개발
 
 `feature/2` 의 1번째 작업
 `feature/2` 의 2번째 작업
